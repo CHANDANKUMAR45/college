@@ -1,8 +1,8 @@
 # college   
 1st year
-c language learn
+c language learn(2022)
 
 2nd year
-DSA and python learn
+DSA and python learn(2023)
 
-add all file
+add DSA and python of  file
